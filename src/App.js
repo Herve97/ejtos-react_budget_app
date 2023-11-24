@@ -22,7 +22,7 @@ const App = () => {
                     {
                         /* Add Budget component here */
                         // Budget component
-                        <div className='col-sm'>
+                        <div className='col-md'>
                             <Budget />
                         </div>
                     }
